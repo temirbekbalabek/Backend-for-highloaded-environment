@@ -1,0 +1,7 @@
+[warn] C:\Users\temir\OneDrive\Рабочий стол\subjects\Backend for highloaded environment\BHLE\BHLE\src\main\scala\lab7\Boot.scala:65:5: A try without a catch or finally is equivalent to putting its body in a block; no exceptions are handled.
+[warn]     try {
+[warn]     ^
+[warn] C:\Users\temir\OneDrive\Рабочий стол\subjects\Backend for highloaded environment\BHLE\BHLE\src\main\scala\week_5\ShapingUp\Task3\obj.scala:3:27: imported `Circle' is permanently hidden by definition of object Circle in package Task3
+[warn] import javafx.scene.shape.Circle
+[warn]                           ^
+[warn] two warnings found
